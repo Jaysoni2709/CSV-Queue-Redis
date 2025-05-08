@@ -1,0 +1,8 @@
+name,email,phone,age,city
+John Doe,john@example.com,9876543210,28,New York
+Jane Smith,jane@example.com,9123456789,32,Los Angeles
+Invalid Email,invalid-email,9876543210,30,Boston
+Missing Name,,9876543210,29,Chicago
+Short Phone,jim@example.com,12345,25,Miami
+Valid User,sara@example.com,,26,Seattle
+Empty City,emptycity@example.com,9876543210,40,
